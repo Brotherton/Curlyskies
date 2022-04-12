@@ -1,2 +1,2 @@
 # Curlyskies
-practice hob for Udemy
+practice hub for Udemy
